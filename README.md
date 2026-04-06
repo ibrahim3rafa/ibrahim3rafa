@@ -5,7 +5,7 @@
 ### Software Test Engineer · ISTQB CTFL v4 · CT-MAT Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--arafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-arafa)
-[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--arafa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-arafa)
+[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--arafa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim3rafa)
 [![Email](https://img.shields.io/badge/Email-ibrahimarafa611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimarafa611@gmail.com)
 [![Location](https://img.shields.io/badge/Cairo-Egypt-green?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
@@ -22,7 +22,7 @@ I'm a **Software Test Engineer** with a passion for breaking things — professi
 - 🏆 **Best Paper Award** at IUGRC-8, Military Technical College for an AI-integrated ADAS project
 - 📜 **ISTQB Certified:** CTFL v4 `#240926052` · CT-MAT `#251204096`
 - 🌱 Continuously expanding skills in test automation, CI/CD integration, and AI testing
-- 📍 Basateen,Cairo, Egypt · Military Status: Completed
+- 📍 Basateen, Cairo, Egypt · Military Status: Completed
 
 ---
 
@@ -56,30 +56,30 @@ I'm a **Software Test Engineer** with a passion for breaking things — professi
 
 | Project | Stack | Description |
 |---|---|---|
-| [Oman AI Chatbot Automation](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM · Apache POI | Data-driven framework validating AI chatbot responses using Excel-based test cases. Reduced manual testing effort by ~60%. |
-| [Future Schools AI Chatbot](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM · Apache POI | End-to-end automation handling Shadow DOM & streaming responses for AI chatbot edge-case coverage. |
+| [Oman AI Chatbot Automation](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM · Apache POI | Data-driven framework validating AI chatbot responses using Excel-based test cases. Reduced manual testing effort by ~60%. |
+| [Future Schools AI Chatbot](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM · Apache POI | End-to-end automation handling Shadow DOM & streaming responses for AI chatbot edge-case coverage. |
 
 ### 🛒 Web Automation
 
 | Project | Stack | Description |
 |---|---|---|
-| [E-Commerce Automation Framework](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM | Reusable framework covering registration, product search, cart, and checkout with data-driven testing. |
-| [OrangeHRM Automation Suite](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM | Automated login, dashboard widgets, and user management for OrangeHRM demo application. |
-| [Cura Healthcare Service](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM | Validated patient registration and appointment booking workflows end-to-end. |
-| [Practice Test Automation](https://github.com/ibrahim-arafa) | Java · Selenium · TestNG · POM | Automated table filtering, sorting, and reset functionality on a test automation demo site. |
+| [E-Commerce Automation Framework](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Reusable framework covering registration, product search, cart, and checkout with data-driven testing. |
+| [OrangeHRM Automation Suite](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Automated login, dashboard widgets, and user management for OrangeHRM demo application. |
+| [Cura Healthcare Service](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Validated patient registration and appointment booking workflows end-to-end. |
+| [Practice Test Automation](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Automated table filtering, sorting, and reset functionality on a test automation demo site. |
 
 ### 🔌 API Testing
 
 | Project | Stack | Description |
 |---|---|---|
-| [Grocery Store API Collection](https://github.com/ibrahim-arafa) | Postman · REST API | Full Postman collection for product listing, cart, auth, and order endpoints with assertions & env variables. |
-| [Reqres API Collection](https://github.com/ibrahim-arafa) | Postman · REST API | CRUD operations, auth flows, and delayed response handling with automated Postman assertions. |
+| [Grocery Store API Collection](https://github.com/ibrahim3rafa) | Postman · REST API | Full Postman collection for product listing, cart, auth, and order endpoints with assertions & env variables. |
+| [Reqres API Collection](https://github.com/ibrahim3rafa) | Postman · REST API | CRUD operations, auth flows, and delayed response handling with automated Postman assertions. |
 
 ### 🖱️ Manual Testing
 
 | Project | Stack | Description |
 |---|---|---|
-| [OTA Website — Expedia](https://github.com/ibrahim-arafa) | Manual · BVA · Test Design | Functional testing of flight search with 40+ test cases using boundary value analysis and equivalence partitioning. |
+| [OTA Website — Expedia](https://github.com/ibrahim3rafa) | Manual · BVA · Test Design | Functional testing of flight search with 40+ test cases using boundary value analysis and equivalence partitioning. |
 
 ---
 
@@ -133,8 +133,17 @@ I'm a **Software Test Engineer** with a passion for breaking things — professi
 
 <div align="center">
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-arafa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-arafa&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim-arafa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ibrahim3rafa)
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-arafa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ibrahim3rafa)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-arafa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/ibrahim3rafa)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-arafa&color=0078D7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
