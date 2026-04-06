@@ -56,24 +56,24 @@ I'm a **Software Test Engineer** with a passion for breaking things — professi
 
 | Project | Stack | Description |
 |---|---|---|
-| [Oman AI Chatbot Automation](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM · Apache POI | Data-driven framework validating AI chatbot responses using Excel-based test cases. Reduced manual testing effort by ~60%. |
-| [Future Schools AI Chatbot](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM · Apache POI | End-to-end automation handling Shadow DOM & streaming responses for AI chatbot edge-case coverage. |
+| [Oman AI Chatbot Automation](https://github.com/ibrahim3rafa/Oman-Chatbot) | Java · Selenium · TestNG · POM · Apache POI | Data-driven framework validating AI chatbot responses using Excel-based test cases. Reduced manual testing effort by ~60%. |
+| [Future Schools AI Chatbot](https://github.com/ibrahim3rafa/Future-Schools-AI-chatbot) | Java · Selenium · TestNG · POM · Apache POI | End-to-end automation handling Shadow DOM & streaming responses for AI chatbot edge-case coverage. |
 
 ### 🛒 Web Automation
 
 | Project | Stack | Description |
 |---|---|---|
-| [E-Commerce Automation Framework](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Reusable framework covering registration, product search, cart, and checkout with data-driven testing. |
-| [OrangeHRM Automation Suite](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Automated login, dashboard widgets, and user management for OrangeHRM demo application. |
-| [Cura Healthcare Service](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Validated patient registration and appointment booking workflows end-to-end. |
-| [Practice Test Automation](https://github.com/ibrahim3rafa) | Java · Selenium · TestNG · POM | Automated table filtering, sorting, and reset functionality on a test automation demo site. |
+| [E-Commerce Automation Framework](https://github.com/ibrahim3rafa/E-commerce-Test-Automation-Framework) | Java · Selenium · TestNG · POM | Reusable framework covering registration, product search, cart, and checkout with data-driven testing. |
+| [OrangeHRM Automation Suite](https://github.com/ibrahim3rafa/OrangeHRM_AutomationTask) | Java · Selenium · TestNG · POM | Automated login, dashboard widgets, and user management for OrangeHRM demo application. |
+| [Cura Healthcare Service](https://github.com/ibrahim3rafa/Cura-Healthcare-Service) | Java · Selenium · TestNG · POM | Validated patient registration and appointment booking workflows end-to-end. |
+| [Practice Test Automation](https://github.com/ibrahim3rafa/Practice-Test-Automation-Website-) | Java · Selenium · TestNG · POM | Automated table filtering, sorting, and reset functionality on a test automation demo site. |
 
 ### 🔌 API Testing
 
 | Project | Stack | Description |
 |---|---|---|
-| [Grocery Store API Collection](https://github.com/ibrahim3rafa) | Postman · REST API | Full Postman collection for product listing, cart, auth, and order endpoints with assertions & env variables. |
-| [Reqres API Collection](https://github.com/ibrahim3rafa) | Postman · REST API | CRUD operations, auth flows, and delayed response handling with automated Postman assertions. |
+| [Grocery Store API Collection](https://github.com/ibrahim3rafa/Postman-Complete-Guide-API-Testing) | Postman · REST API | Full Postman collection for product listing, cart, auth, and order endpoints with assertions & env variables. |
+| [Reqres API Collection](https://github.com/ibrahim3rafa/Reqres-API-Testing-) | Postman · REST API | CRUD operations, auth flows, and delayed response handling with automated Postman assertions. |
 
 ### 🖱️ Manual Testing
 
