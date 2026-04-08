@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?color=58A6FF&size=26&center=true&vCenter=true&width=750&lines=Software+Test+Engineer;ISTQB+Certified+(CTFL+v4+%7C+CT-MAT);Automation+Engineer;AI+Chatbot+Tester" />
+<img src="https://readme-typing-svg.demolab.com?color=58A6FF&size=26&center=true&vCenter=true&width=750&lines=Software+Test+Engineer;ISTQB+Certified+(CTFL+v4+%7C+CT-MAT);Automation+Engineer;AI+Chatbot+Tester;Agile+QA+Specialist" />
 
 </div>
 
@@ -45,41 +45,44 @@
 <!-- ======================= ABOUT ======================= -->
 
 <div align="center">
-
-<!-- 🔁 Suggested better QA GIF -->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
 </div>
 
 ## 👨‍💻 About Me
 
-- 🧪 Software Test Engineer focused on **quality, automation & scalability**
-- 🤖 Specialized in **AI Chatbot Testing & E2E Automation**
-- ⚙️ Strong in **Selenium, Java, TestNG, POM**
-- 🔍 Experienced in **API Testing (Postman), Jira, Agile**
-- 🚀 Passionate about building **robust, maintainable test frameworks**
+- 🧪 Software Test Engineer with ~1 year hands-on experience in **manual & automation testing**
+- 🤖 Specialized in **AI Chatbot Testing & complex UI interactions (Shadow DOM, streaming responses)**
+- ⚙️ Skilled in building **scalable automation frameworks using Selenium + Java + POM**
+- 🔍 Strong experience in **API Testing (Postman), defect tracking (Jira, Azure DevOps)**
+- 🔄 Solid understanding of **STLC, SDLC, Agile/Scrum methodologies**
+- 🚀 Currently working at **Twenty Four Smart Technologies**
+- 🎓 Graduate of **DEPI Program – MCIT**
 
 ---
 
-<!-- ======================= BADGES ======================= -->
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🔬 Testing
+### 🔬 Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### 💻 Languages
+### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Fundamentals-c592e7?style=for-the-badge)
+### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-FF6F00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Basics-c592e7?style=for-the-badge)
 
 </div>
 
@@ -93,12 +96,11 @@
 
 <table>
 <tr>
-
 <td width="50%">
 <img src="https://via.placeholder.com/300x150?text=Oman+AI+Chatbot" width="100%"/>
 <br/>
 <b>Oman AI Chatbot Framework</b><br/>
-<sub>Replace with screenshot of chatbot automation framework running</sub><br/>
+<sub>👉 Replace with chatbot automation execution screenshot</sub><br/>
 Selenium • Java • POM • Apache POI
 </td>
 
@@ -106,39 +108,35 @@ Selenium • Java • POM • Apache POI
 <img src="https://via.placeholder.com/300x150?text=Future+Schools+AI" width="100%"/>
 <br/>
 <b>Future Schools Chatbot</b><br/>
-<sub>Replace with streaming response validation screenshot</sub><br/>
-Shadow DOM • E2E Automation
+<sub>👉 Replace with streaming/Shadow DOM handling screenshot</sub><br/>
+E2E Automation • Advanced DOM Handling
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 <img src="https://via.placeholder.com/300x150?text=E-Commerce" width="100%"/>
 <br/>
-<b>E-Commerce Framework</b><br/>
-<sub>Replace with test execution report screenshot</sub><br/>
-Selenium • TestNG • Java
+<b>E-Commerce Automation</b><br/>
+<sub>👉 Replace with test report or dashboard</sub><br/>
+Selenium • TestNG • POM
 </td>
 
 <td width="50%">
 <img src="https://via.placeholder.com/300x150?text=OrangeHRM" width="100%"/>
 <br/>
-<b>OrangeHRM Automation</b><br/>
-<sub>Replace with test cases execution screenshot</sub><br/>
+<b>OrangeHRM Suite</b><br/>
+<sub>👉 Replace with test execution results</sub><br/>
 Selenium • POM
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 <img src="https://via.placeholder.com/300x150?text=API+Testing" width="100%"/>
 <br/>
 <b>API Testing Collection</b><br/>
-<sub>Replace with Postman collection screenshot</sub><br/>
+<sub>👉 Replace with Postman collection</sub><br/>
 Postman • REST API
 </td>
 
@@ -146,14 +144,23 @@ Postman • REST API
 <img src="https://via.placeholder.com/300x150?text=OTA+Testing" width="100%"/>
 <br/>
 <b>OTA Manual Testing</b><br/>
-<sub>Replace with bug report or test case sample</sub><br/>
+<sub>👉 Replace with bug report or test cases</sub><br/>
 Expedia • BVA • EP
 </td>
-
 </tr>
 </table>
 
 </div>
+
+---
+
+<!-- ======================= EDUCATION ======================= -->
+
+## 🎓 Education
+
+- 🎓 **B.Sc. Mechatronics Engineering** – Zagazig University  
+- 📊 GPA: **3.3 / 4.0**  
+- 🏆 **Best Paper Award – IUGRC-8** (AI-integrated ADAS Project)
 
 ---
 
@@ -173,11 +180,21 @@ Expedia • BVA • EP
 
 ---
 
-<!-- ======================= CURRENT ======================= -->
+<!-- ======================= LANGUAGES ======================= -->
 
-## 🧠 Current Focus
+## 🌍 Languages
 
-`[████████░░] 80% — Building AI Test Oracle`
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Professional  
+
+---
+
+<!-- ======================= EXPERIENCE ======================= -->
+
+## 💼 Experience
+
+- 🏢 **Software Tester** – Twenty Four Smart Technologies (Nov 2025 – Present)  
+- 🎓 **QA Intern (DEPI Program – MCIT)** (Apr 2024 – Oct 2024)  
 
 ---
 
@@ -203,15 +220,13 @@ Expedia • BVA • EP
 
 ---
 
-<!-- ======================= COLLAPSIBLE ======================= -->
-
 <details>
 <summary>🧠 Test Philosophy</summary>
 
-- Quality is built, not tested at the end  
-- Automation should accelerate delivery, not add complexity  
-- Focus on risk-based testing & coverage  
-- Every bug is a chance to improve the system  
+- Quality is built into the process, not tested at the end  
+- Automation should reduce risk, not increase complexity  
+- Focus on user impact and critical flows  
+- Continuous improvement is key  
 
 </details>
 
