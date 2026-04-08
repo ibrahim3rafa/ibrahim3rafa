@@ -1,140 +1,132 @@
-<h1 align="left">Hi, I'm Ibrahim you can call me 👇</h1>
+<h1 align="left">Hi, I'm Ibrahim (Ibra) 👋</h1>
+<!-- Capsule Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Ibrahim%20Arafa&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Test%20Engineer%20%7C%20QA%20Automation" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ibrahim%20Arafa&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Test%20Engineer%20%7C%20ISTQB%20CTFL%20v4%20%26%20CT-MAT%20Certified&descAlignY=62&descSize=18" width="100%" />
-
+<!-- Profile Photo -->
 <div align="center">
-<p>
-<a href="https://linkedin.com/in/ibrahim-arafa" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:ibrahimarafa611@gmail.com" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://github.com/ibrahim-arafa" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+  <img src="https://github.com/ibrahim3rafa.png" width="150" style="border-radius:50%; border: 4px solid #a855f7;" alt="Ibrahim Arafa" />
 </div>
 
-<hr/>
-
-<img align="right" alt="Testing" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<h4 align="left">
-I'm a Software Test Engineer who finds bugs before your users do. 🐛🔍 <br>
-I specialize in manual and automated testing for web, mobile, and AI-powered applications,<br>
-with a strong foundation in ISTQB-certified best practices.<br><br>
-I build robust Selenium automation frameworks with Java & POM,<br>
-validate APIs end-to-end with Postman, and thrive in Agile/Scrum environments.<br><br>
-With an engineering background in Mechatronics and an award-winning AI project,<br>
-I bring analytical thinking and precision to every test cycle I touch.
-</h4>
-
-<br clear="right"/>
-
-<hr/>
-
-<h3 align="left">🏆 Certifications</h3>
-
-| Badge | Certification | ID |
-|:---:|---|---|
-| 🥇 | **ISTQB Certified Tester Foundation Level — CTFL v4** | `240926052` |
-| 🥇 | **ISTQB Certified Tester Mobile Application Testing — CT-MAT** | `251204096` |
-
-<hr/>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
+<!-- Typing Effect -->
 <div align="center">
-
-**Testing & Automation**
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,postman,java,idea&theme=dark" />
-</p>
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,cpp&theme=dark" />
-</p>
-
-**Project & Defect Management**
-<p>
-<img src="https://skillicons.dev/icons?i=jira,azure,github,git&theme=dark" />
-</p>
-
-**Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=F472B6&size=25&center=true&vCenter=true&width=600&lines=Software+Test+Engineer;ISTQB+Certified+(CTFL+v4+%7C+CT-MAT);Automation+Enthusiast;AI+Chatbot+Tester" />
 </div>
 
-<hr/>
-
-<h3 align="center">📂 Featured Projects</h3>
-
+<!-- Visitor Counter -->
 <div align="center">
-
-| 🤖 AI Chatbot Testing | ⚙️ Stack |
-|---|---|
-| **Oman AI Chatbot Automation** — Data-driven framework validating chatbot responses via Excel | Java · Selenium · TestNG · POM · Apache POI |
-| **Future Schools AI Chatbot** — Shadow DOM & streaming response automation | Java · Selenium · TestNG · POM · Apache POI |
-
-| 🛒 Web Automation | ⚙️ Stack |
-|---|---|
-| **E-Commerce Test Framework** — Registration, cart, checkout with data-driven testing | Java · Selenium · TestNG · POM |
-| **OrangeHRM Automation Suite** — Login, dashboard, and user management | Java · Selenium · TestNG · POM |
-| **Cura Healthcare Service** — Patient registration & appointment booking | Java · Selenium · TestNG · POM |
-
-| 🔌 API Testing | ⚙️ Stack |
-|---|---|
-| **Grocery Store API Collection** — Full CRUD with assertions & env variables | Postman · REST API |
-| **Reqres API Collection** — Auth flows, CRUD & delayed responses | Postman · REST API |
-
+  <img src="https://visitcount.itsvg.in/api?id=ibrahim3rafa&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </div>
-
 <hr/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- Social Links -->
+<div align="center">
+<a href="https://linkedin.com/in/ibrahim-arafa" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ibrahim3rafa" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:ibrahimarafa611@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+<hr/>
 
+<!-- About Me -->
+<img align="right" alt="QA GIF" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<h3>👨‍💻 About Me</h3>
+- 🧪 ISTQB-Certified Software Test Engineer (CTFL v4 + CT-MAT) with 1+ year of hands-on experience  
+- 🤖 Specialized in **AI Chatbot Testing** (NLP accuracy, edge cases & conversational flows)  
+- ⚙️ Expert in building scalable **Selenium + Java + POM** automation frameworks  
+- 🔍 Proficient in **API Testing** with Postman, Jira defect management & Agile/Scrum  
+- 🚀 Ex-DEPI Intern | Mechatronics Engineer | Passionate about quality & automation  
+<br/>
+<hr/>
+
+<!-- Badges -->
+<h3>🏆 Certifications & Badges</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ISTQB-CTFL_v4-red?style=for-the-badge&logo=testing-library"/>
+<img src="https://img.shields.io/badge/ISTQB-CT--MAT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QA-Automation-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Testing-green?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Selenium-Java-orange?style=for-the-badge"/>
+</p>
+<hr/>
+
+<!-- Tech Stack -->
+<h3>🛠️ Tech Stack</h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,typescript,cpp,selenium,postman,git,github&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POM-DesignPattern-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
+</div>
+<hr/>
+
+<!-- Projects -->
+<h3>🚀 Featured Projects</h3>
 <div align="center">
 <table>
 <tr>
-<td align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ibrahim-arafa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=c592e7&icon_color=c592e7&text_color=C9D1D9&custom_title=Ibrahim's%20GitHub%20Analytics"/>
+<td width="50%">
+<img src="https://via.placeholder.com/400x200/6B21A8/ffffff?text=Oman+AI+Chatbot" width="100%"/>
+<br/>
+<b>Oman AI Chatbot Automation</b><br/>
+Selenium • Java • POM • Apache POI<br/>
+<a href="https://github.com/ibrahim3rafa/Oman-Chatbot">🔗 View Code</a>
 </td>
-<td align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-arafa&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=c592e7&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+<td width="50%">
+<img src="https://via.placeholder.com/400x200/6B21A8/ffffff?text=Future+Schools+AI+Chatbot" width="100%"/>
+<br/>
+<b>Future Schools AI Chatbot</b><br/>
+E2E Automation • Shadow DOM • Streaming<br/>
+<a href="https://github.com/ibrahim3rafa/Future-Schools-AI-chatbot">🔗 View Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://via.placeholder.com/400x200/6B21A8/ffffff?text=E-Commerce+Framework" width="100%"/>
+<br/>
+<b>E-Commerce Test Automation Framework</b><br/>
+Selenium • TestNG • Java • POM<br/>
+<a href="https://github.com/ibrahim3rafa/E-commerce-Test-Automation-Framework">🔗 View Code</a>
+</td>
+<td width="50%">
+<img src="https://via.placeholder.com/400x200/6B21A8/ffffff?text=OrangeHRM+Automation" width="100%"/>
+<br/>
+<b>OrangeHRM Automation Suite</b><br/>
+Selenium • Java • POM • User Management<br/>
+<a href="https://github.com/ibrahim3rafa/OrangeHRM_AutomationTask">🔗 View Code</a>
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-arafa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c592e7&line=c592e7&point=fff&area=true&area_color=58A6FF&title_color=c592e7&custom_title=Contribution%20Activity%20Graph" />
-
 </div>
-
 <hr/>
 
-<h3 align="left">🎓 Education</h3>
-
-**B.Sc. Mechatronics Engineering** — Zagazig University *(2019 – 2024)*
-> 🎯 GPA: **3.3 / 4.0**
->
-> 🏆 **Best Paper Award** — IUGRC-8, Military Technical College
->
-> 📌 Graduation Project *(A+)*: Electric Car with ADAS — AI-integrated lane detection, obstacle avoidance & adaptive cruise control
-
-<hr/>
-
-<h3 align="left">📚 Training</h3>
-
-- 🎥 **Master Selenium with Java** — Udemy *(Ahmed Ashraf)*
-- 🎥 **Selenium WebDriver with Java: Basics to Advanced + Frameworks** — Udemy *(Rahul Shetty)*
-- 🎥 **Manual Testing Bootcamp** — QA Cart *(Hatem Hatamallah)*
-- 🎥 **Manual Testing for Complete Beginners** — Nezam *(Tarek Roshdy)*
-
-<hr/>
-
+<!-- Stats -->
+<h3>📊 GitHub Analytics</h3>
 <div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ibrahim3rafa&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim3rafa&layout=compact&theme=radical&hide_border=true"/>
+</div>
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim3rafa&theme=react-dark&hide_border=true&color=00ffff&line=ff00ff&point=ffffff&area=true"/>
+</div>
+<hr/>
 
-### \</Test. Fix. Automate. Repeat.>
+<!-- Tip Section -->
+<h3>💡 Latest Testing Tip</h3>
+<div align="center">
+_"Good automation is not about replacing manual testing — it's about enhancing confidence and coverage."_ 🚀
+</div>
+<hr/>
 
+<!-- Footer Tagline -->
+<div align="center">
+<h3>Test. Automate. Improve. Repeat.</h3>
 </div>
 
+<!-- Capsule Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
