@@ -51,7 +51,7 @@
 ## 👨‍💻 About Me
 
 - 🧪 Software Test Engineer with ~1 year hands-on experience in **manual & automation testing**
-- 🤖 Specialized in **AI Chatbot Testing & complex UI interactions (Shadow DOM, streaming responses)**
+- 🤖 Specialized in **AI Chatbot Testing & Telecom Industry**
 - ⚙️ Skilled in building **scalable automation frameworks using Selenium + Java + POM**
 - 🔍 Strong experience in **API Testing (Postman), defect tracking (Jira, Azure DevOps)**
 - 🔄 Solid understanding of **STLC, SDLC, Agile/Scrum methodologies**
