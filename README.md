@@ -55,7 +55,7 @@
 - ⚙️ Skilled in building **scalable automation frameworks using Selenium + Java + POM**
 - 🔍 Strong experience in **API Testing (Postman), defect tracking (Jira, Azure DevOps)**
 - 🔄 Solid understanding of **STLC, SDLC, Agile/Scrum methodologies**
-- 🚀 Currently working at **Twenty Four Smart Technologies**
+- 🚀 Currently working at **e& Egypt (Etisalat Masr)**
 - 🎓 Graduate of **DEPI Program – MCIT**
 
 ---
